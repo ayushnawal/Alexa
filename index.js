@@ -78,7 +78,7 @@ const ErrorHandler = {
 };
 
 const SKILL_NAME = 'Word Of The Day';
-const GET_FACT_MESSAGE = 'Here\'s your fact: ';
+const GET_FACT_MESSAGE = 'Here\'s your word of the day ';
 const HELP_MESSAGE = 'You can say tell me a word or, you can say exit... What can I help you with?';
 const HELP_REPROMPT = 'What can I help you with?';
 const STOP_MESSAGE = 'Goodbye!';
